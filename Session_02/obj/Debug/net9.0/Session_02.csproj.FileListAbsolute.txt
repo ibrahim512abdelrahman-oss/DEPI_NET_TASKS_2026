@@ -1,0 +1,15 @@
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\bin\Debug\net9.0\Session_02.exe
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\bin\Debug\net9.0\Session_02.deps.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\bin\Debug\net9.0\Session_02.runtimeconfig.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\bin\Debug\net9.0\Session_02.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\bin\Debug\net9.0\Session_02.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.sourcelink.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\refint\Session_02.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\Session_02.genruntimeconfig.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_02\obj\Debug\net9.0\ref\Session_02.dll
