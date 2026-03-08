@@ -1,0 +1,15 @@
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\bin\Debug\net9.0\ExamProject.exe
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\bin\Debug\net9.0\ExamProject.deps.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\bin\Debug\net9.0\ExamProject.runtimeconfig.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\bin\Debug\net9.0\ExamProject.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\bin\Debug\net9.0\ExamProject.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.sourcelink.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\refint\ExamProject.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ExamProject.genruntimeconfig.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ExamProject\obj\Debug\net9.0\ref\ExamProject.dll

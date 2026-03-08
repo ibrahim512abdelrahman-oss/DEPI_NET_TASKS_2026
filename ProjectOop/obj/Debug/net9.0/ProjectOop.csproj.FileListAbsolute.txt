@@ -1,0 +1,15 @@
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\bin\Debug\net9.0\ProjectOop.exe
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\bin\Debug\net9.0\ProjectOop.deps.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\bin\Debug\net9.0\ProjectOop.runtimeconfig.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\bin\Debug\net9.0\ProjectOop.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\bin\Debug\net9.0\ProjectOop.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.sourcelink.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\refint\ProjectOop.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ProjectOop.genruntimeconfig.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\ProjectOop\obj\Debug\net9.0\ref\ProjectOop.dll
