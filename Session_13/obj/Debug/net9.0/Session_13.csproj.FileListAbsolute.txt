@@ -1,0 +1,15 @@
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\bin\Debug\net9.0\Session_13.exe
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\bin\Debug\net9.0\Session_13.deps.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\bin\Debug\net9.0\Session_13.runtimeconfig.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\bin\Debug\net9.0\Session_13.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\bin\Debug\net9.0\Session_13.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.AssemblyInfoInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.AssemblyInfo.cs
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.sourcelink.json
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\refint\Session_13.dll
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.pdb
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\Session_13.genruntimeconfig.cache
+C:\Users\ibrahim\Documents\GitHub\DEPI_NET_TASKS_2026\Session_13\obj\Debug\net9.0\ref\Session_13.dll
